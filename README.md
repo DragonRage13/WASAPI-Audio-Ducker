@@ -15,7 +15,15 @@ A modern, lightweight Windows Forms utility for Windows 10/11 that automatically
 -  **Minimal System Strain:** Optimzed to use as little resources as possible.
 - **Safety Safeguards:** Built-in mutual exclusion prevents an application from accidentally being selected as both a trigger and a target simultaneously.
 
-[![Download Latest Release](https://img.shields.io/badge/📥_Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/DragonRage13/WASAPI-Audio-Ducker/releases/latest)
+<div align="center">
+
+  <h3>Download the latest version</h3>
+
+  <a href="https://github.com/DragonRage13/WASAPI-Audio-Ducker/releases/latest">
+    <img src="https://img.shields.io/badge/📥_Download_Latest_Release-blue?style=for-the-badge&logo=github" alt="Download Latest Release" height="45">
+  </a>
+
+</div>
 
 <table>
   <tr>
