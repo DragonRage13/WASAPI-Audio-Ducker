@@ -1,7 +1,7 @@
 # WASAPI-Audio-Ducker
 WASAPI Audio Ducker (WAD) is a windows forms application that can be used to reduce the volume of target applications based upon the volume of trigger applications.
 
-A modern, lightweight Windows Forms utility for Windows 10/11 that automatically lowers (ducks) the volume of target applications whenever specified trigger applications produce audio. Built using C# and the [NAudio](https://github.com/naudio/NAudio) library.
+A modern, lightweight Windows Forms utility for Windows 10/11 that automatically lowers (ducks) the volume of target applications whenever specified trigger applications produce audio. Built using C# and the [NAudio](https://github.com/naudio/NAudio) library (Copyright © Mark Heath).
 
 ## Features
 
@@ -53,7 +53,6 @@ A modern, lightweight Windows Forms utility for Windows 10/11 that automatically
     </td>
   </tr>
 </table>
-
 
 
 ## Requirements
