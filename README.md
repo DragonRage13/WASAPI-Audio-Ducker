@@ -11,16 +11,35 @@ A modern, lightweight Windows Forms utility for Windows 10/11 that automatically
   - **Ducked Volume:** Set the precise percentage to reduce the target app's volume.
   - **Release Hold Delay:** Configure how long the app waits after the trigger goes quiet before restoring target volumes.
 - **Modern Windows 11 Design:** Clean dark theme UI featuring native Windows 11 rounded corners and system accent styling.
-- **System Tray Support:** Minimizes seamlessly to the system tray to run quietly in the background with status updates.
+- **System Tray Support:** Minimizes seamlessly to the system tray to run quietly in the background with status update.
+-  **Minimal System Strain:** Optimzed to use as little resources as possible.
 - **Safety Safeguards:** Built-in mutual exclusion prevents an application from accidentally being selected as both a trigger and a target simultaneously.
 
 <table>
+  <tr>
+    <td>
+      <p><strong>In-Active</strong></p>
+    </td>
+    <td>
+      <p><strong>Active</strong></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/cbe01a10-71ae-4b54-9100-b47ddb457f9e" alt="Screenshot 1" />
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/a37cbdac-b5f5-407a-b2bd-9ff2ecc97e1b" alt="Screenshot 2" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Sits comfortably in the background</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100" height="46" alt="image" src="https://github.com/user-attachments/assets/3eb3bd7c-ab4b-41f7-ad97-5925853d9142" />
     </td>
   </tr>
 </table>
