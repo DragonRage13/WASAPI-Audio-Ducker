@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBoYx8lcD7w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajane\\source\\repos\\AudioDucker\\AudioDucker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajane\\.nuget\\packages\\naudio\\2.3.0\\naudio.2.3.0.nupkg.sha512",
+    "C:\\Users\\ajane\\.nuget\\packages\\naudio.asio\\2.3.0\\naudio.asio.2.3.0.nupkg.sha512",
+    "C:\\Users\\ajane\\.nuget\\packages\\naudio.core\\2.3.0\\naudio.core.2.3.0.nupkg.sha512",
+    "C:\\Users\\ajane\\.nuget\\packages\\naudio.midi\\2.3.0\\naudio.midi.2.3.0.nupkg.sha512",
+    "C:\\Users\\ajane\\.nuget\\packages\\naudio.wasapi\\2.3.0\\naudio.wasapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\ajane\\.nuget\\packages\\naudio.winforms\\2.3.0\\naudio.winforms.2.3.0.nupkg.sha512",
+    "C:\\Users\\ajane\\.nuget\\packages\\naudio.winmm\\2.3.0\\naudio.winmm.2.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\ajane\\source\\repos\\AudioDucker\\AudioDucker.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ajane\\source\\repos\\AudioDucker\\AudioDucker.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
