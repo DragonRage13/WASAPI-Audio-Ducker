@@ -15,6 +15,7 @@ A modern, lightweight Windows Forms utility for Windows 10/11 that automatically
 - **Safety Safeguards:** Built-in mutual exclusion prevents an application from accidentally being selected as both a trigger and a target simultaneously.
 
 <img width="587" height="625" alt="Screenshot 2026-08-11 145555" src="https://github.com/user-attachments/assets/cbe01a10-71ae-4b54-9100-b47ddb457f9e" />
+<img width="586" height="621" alt="image" src="https://github.com/user-attachments/assets/a37cbdac-b5f5-407a-b2bd-9ff2ecc97e1b" />
 
 
 
